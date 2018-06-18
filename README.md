@@ -1,2 +1,2 @@
 # ADB-RoboRIO-Installer
-A script to install ADB (Android Debug Bridge) on a RoboRIO for communication w/ offboard Android-based processors.
+A port of ADB for the NI RoboRIO. Intended for use in First Robotics Challenge.
