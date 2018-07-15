@@ -1,3 +1,10 @@
+ARCH: 
+armel (armv7)
+
+X-TOOLCHAIN: 
+arm-frc-linux-gnueabi-gcc
+
+PACKAGE-LIST:
 android-tools-adb
 android-libadb
 android-libbase
