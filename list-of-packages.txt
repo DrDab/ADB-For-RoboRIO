@@ -1,0 +1,5 @@
+android-libadb
+android-libbase
+android-libcutils
+android-liblog
+libssl1.1
