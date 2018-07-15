@@ -1,3 +1,4 @@
+android-tools-adb
 android-libadb
 android-libbase
 android-libcutils
