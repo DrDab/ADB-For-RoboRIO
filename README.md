@@ -17,6 +17,7 @@ chmod 755 install.sh
 2. cd into the repository and enter the ```adb_toolchain-builder``` directory.
 3. Run the following commands:
 ```
+sudo su
 chmod 755 *.sh
 ./get-dependencies.sh
 ./build-adb.sh
